@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace
 - 👀 I’m passionate about data science
-- 🌱 I’m currently learning R language
+- 🌱 Learning is a never ending journey
 - 💞️ I’m looking to collaborate on data science projects
 
 <!---
